@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Formulario de Contacto</title>
+	<!--CSS-->
+	<link rel="stylesheet" href="test.css">
+	<!--JQUERY LIBRERIA-->
+	<script src="jquery.js" type="text/javascript" charset="utf-8"></script>
+	<!--ARCHIVO EXTERNO-->
+	<script src="test.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+	<form id="contactNewsletterForm" method="get" action="Submit.html">
+		<div>
+			<label for="contactFirstName">Nombre: </label>
+			<input type="text" id="contactFirstName" name="contactFirstName" size="25" maxlength="50" required="required">
+		</div>
+		<div>
+			<label for="contactLastName">Apellido: </label>
+			<input type="text" id="contactLastName" name="contactLastName" size="25" maxlength="50" required="required">
+		</div>
+		<div>
+			<input type="checkbox" id="contactNewsletter" value="1">
+			<label for="contactNewsletter">Subscribete a nuestro canal de noticias</label>
+		</div>
+		<div>
+			<input type="submit" id="contactNewsletterFormSubmit" name="contactNewsletterFormSubmit" value="Confirmar">
+		</div>
+	</form>
+</body>
+</html>
