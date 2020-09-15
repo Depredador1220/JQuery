@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Context Menu</title>
+	<!--CSS-->
+	<link rel="stylesheet" href="test.css">
+	<!--JQUERY LIBRERIA-->
+	<script src="jquery.js" type="text/javascript" charset="utf-8"></script>	
+	<!--ARCHIVO EXTERNO-->
+	<script src="test.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+	<form action="javascript:void(0);" method="post">
+		<fieldset>
+			<legend>Direccion</legend>
+			<div id="addressCountryWrapper">
+				<label for="addressCountry" size='1' name="addressCountry">
+					<img src="Banderas/mexico.png" alt='Country'>
+				</label>
+				<select id="addressCountry" size="1" name="addressCountry">
+					<option value="0">Selecciona un pais</option>
+					<option value="1">Canada</option>
+					<option value="2">USA</option>
+					<option value="3">Mexico</option>					
+				</select>
+			</div>
+			<div>
+				<label for="addressStreet">Calle:</label>
+				<textarea name="addressStreet" id="addressStreet" rows="2" cols="50">					
+				</textarea>
+			</div>
+			<div>
+				<label for="addressCity">Ciudad:</label>
+				<input type="text" name="addressCity" id="addressCity" size="25" />
+			</div>
+			<div>
+				<label for="addressState">Estado:</label>
+				<select name="addressState" id="addressState"></select>
+			</div>
+			<div>
+				<label for="addressPostalcode">Codigo Postal:</label>
+				<input type="text" name="addressPostalCode" id="addressPostalCode" size="10">
+			</div>
+			<div id="addressButtonWrapper">
+				<input type="submit" id="addressButton" name="addressButton" value="Guardar">
+			</div>
+		</fieldset>
+	</form>
+</body>
+</html>
