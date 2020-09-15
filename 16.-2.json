@@ -1,0 +1,23 @@
+{
+	"name": "usa",
+	"iso2": "USA",
+	"iso3": "USA",
+	"label": "States",
+	"states": 
+	{
+		"1":"",
+		"66":"Washington",
+		"67":"Michigan",
+		"68":"Arizona",
+		"69":"New Mexico",
+		"70":"Pennsylvania",
+		"71":"New York",
+		"72":"Florida",
+		"73":"Texas",
+		"74":"Arkansas",
+		"75":"California",
+		"76":"Nevada",
+		"77":"Kansas",
+		"78":"Montana"
+	}
+}
