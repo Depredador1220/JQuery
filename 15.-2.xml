@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<country>
+		<name>usa</name>
+		<iso2>USA</iso2>
+		<iso3>USA</iso3>
+		<label>States</label>
+		<state id='1'></state>
+		<state id='66'>Washington</state>
+		<state id='67'>Michigan</state>
+		<state id='68'>Arizona</state>
+		<state id='69'>New Mexico</state>
+		<state id='70'>Pennsylvania</state>
+		<state id='71'>New York</state>
+		<state id='72'>Florida</state>
+		<state id='73'>Texas</state>
+		<state id='74'>Arkansas</state>
+		<state id='75'>California</state>
+		<state id='76'>Nevada</state>
+		<state id='77'>Kansas</state>
+		<state id='78'>Montana</state>
+</country>
