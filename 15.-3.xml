@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<country>
+		<name>mx</name>
+		<iso2>Mexico</iso2>
+		<iso3>MX</iso3>
+		<label>Estados</label>
+		<state id='1'></state>
+		<state id='66'>Chiapas</state>
+		<state id='67'>Tabasco</state>
+		<state id='68'>Jalisco</state>
+		<state id='69'>Puebla</state>
+		<state id='70'>Durango</state>
+		<state id='71'>Campeche</state>
+		<state id='72'>Oaxaca</state>
+		<state id='73'>Yucatan</state>
+		<state id='74'>Chihuahua</state>
+		<state id='75'>Baja California Sur</state>
+		<state id='76'>Colima</state>
+		<state id='77'>Hidalgo</state>
+		<state id='78'>Queretaro</state>
+</country>
