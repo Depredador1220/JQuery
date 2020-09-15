@@ -1,0 +1,23 @@
+{
+	"name": "mx",
+	"iso2": "Mexico",
+	"iso3": "MX",
+	"label": "States",
+	"states": 
+	{
+		"1":"",
+		"66":"Chiapas",
+		"67":"Tabasco",
+		"68":"Jalisco",
+		"69":"Puebla",
+		"70":"Durango",
+		"71":"Campeche",
+		"72":"Oaxaca",
+		"73":"Yucatan",
+		"74":"Chihuahua",
+		"75":"Baja California Sur",
+		"76":"Colima",
+		"77":"Hidalgo",
+		"78":"Queretaro"
+	}
+}
